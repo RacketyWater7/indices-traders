@@ -1,26 +1,26 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "INDICES TRADERS Wholesaler | Sports Products and Garments Exporter",
+  "titleTemplate": "%s - INDICES TRADERS Wholesaler",
+  "description": "INDICES TRADERS is an exporting company that provides best quality sports products to its customers worldwide. Get in touch with us if you need any customizations applied product.",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "INDICES TRADERS Wholesaler | Sports Products and Garments Exporter",
+    "description": "INDICES TRADERS is an exporting company that provides best quality sports products to its customers worldwide. Get in touch with us if you need any customizations applied product.",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://indicestraders.com",
+    "site_name": "INDICES TRADERS",
     "images": [
       {
         "url": "/card.png",
         "width": 800,
         "height": 600,
-        "alt": "Next.js Commerce"
+        "alt": "INDICES TRADERS"
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@IndicesTraders",
+    "site": "@IndicesTraders",
     "cardType": "summary_large_image"
   }
 }
